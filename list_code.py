@@ -1,6 +1,6 @@
 mybag = ['laptop',1,'books',4,'keys','ID','bottle']
 
-mybag.append('lactose_Free_milk')
+mybag.append('chocolate')
 
 print(len(mybag)) #total number of elements in the list, mybag
 print(mybag[7])
