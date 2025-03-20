@@ -1,17 +1,17 @@
-mybag = ['laptop',1,'books',4,'keys','ID','bottle']
+myfood = ['burger',1,'fries',4,'pizza','gulab jamun','im hungry']
 
-mybag.append('lactose_Free_milk')
+myfood.append('lactose_Free_milk')
 
-print(len(mybag)) #total number of elements in the list, mybag
-print(mybag[7])
-print(mybag)
-mybag.append(11)
-print(mybag)
+print(len(myfood)) #total number of elements in the list, mybag
+print(myfood[7])
+print(myfood)
+myfood.append(11)
+print(myfood)
 
-print(mybag[-2])
+print(myfood[-2])
 
-mybag[3] = 5
-print(mybag)
-mybag[3] = 'cat'
-print(mybag)
+myfood[3] = 5
+print(myfood)
+myfood[3] = 'cat'
+print(myfood)
 
